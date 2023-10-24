@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="username">Username</string>
+    <string name="name">Nama User</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="repositories">Repositories</string>
+    <string name="follow_number">0</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="title_detail">Detail User</string>
+    <string name="search">search</string>
+    <string name="search_hint">Cari username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="not_found">User not found</string>
+    <string name="add">Tambah Favorit</string>
+    <string name="message_add">Tambahkan ke favorit?</string>
+    <string name="message_remove">Hapus dari favorit?</string>
+    <string name="delete">Hapus Favorit</string>
+    <string name="yes">ya</string>
+    <string name="no">batal</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorit">Favorit</string>
+    <string name="favourite">Favourite</string>
+
+</resources>
